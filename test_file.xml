@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NissanCatalogData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.nissan.co.jp/NissanCatalogData" last-update="20190218-0552">
+<NissanCatalogData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.nissan.co.jp/NissanCatalogData" last-update="20190219-0552">
   <BodyType id="electric">
     <Name>電気自動車 (EV)</Name>
     <Order>1</Order>
@@ -196,6 +196,16 @@
         </UpdateLevel>
         <PublishDate>20190123</PublishDate>
         <Code>C3411-9011AAA</Code>
+      </ContentVersion>
+      <ContentVersion>
+        <ReleaseDate>20190124-1400</ReleaseDate>
+        <NumPages>60</NumPages>
+        <SizeMb>12.74</SizeMb>
+        <UpdateLevel>
+          <Normal />
+        </UpdateLevel>
+        <PublishDate>20190124</PublishDate>
+        <Code>C3411-9011AAB</Code>
       </ContentVersion>
     </Content>
     <Content id="80th">
