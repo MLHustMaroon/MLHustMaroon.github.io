@@ -197,6 +197,16 @@
         <PublishDate>20190123</PublishDate>
         <Code>C3411-9011AAA</Code>
       </ContentVersion>
+      <ContentVersion>
+        <ReleaseDate>20190124-1400</ReleaseDate>
+        <NumPages>60</NumPages>
+        <SizeMb>12.74</SizeMb>
+        <UpdateLevel>
+          <High />
+        </UpdateLevel>
+        <PublishDate>20190124</PublishDate>
+        <Code>C3411-9011AAB</Code>
+      </ContentVersion>
     </Content>
     <Content id="80th">
       <StartDistributeDate>20150101-1400</StartDistributeDate>
